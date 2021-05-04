@@ -9,7 +9,6 @@ Currently, this package includes three different decorators:
 - **@sleep**: sleep the program a certain time before calling the function.
 
 ## Examples of use
----
 
 ### @debug
 Input
